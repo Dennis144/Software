@@ -2,7 +2,7 @@
 public class DeepThought {
 
     public String answerToUltimateQuestionOfLifeTheUniverseAndEverything() {
-        return "41";
+        return "42";
     }
 
     public static void main(String[] args) {
